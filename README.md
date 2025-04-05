@@ -105,15 +105,14 @@ You need to setup you MongoDB Clusters priorly and then follow the steps.
 - [x] Price Negotiation System
 - [x] Notification System
 - [x] Add Tasks
-- [x] Worker Profile with Ratings
-
-See the [open issues](https://github.com/siddhesh-desai/Worker-Connect/issues) for a full list of proposed features (and known issues).
+- [x] Worker Profile 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
 ## 👣 Contributing
+MY Friends... Gokullingam P and Naveen S
 
 Any contributions you make are **greatly appreciated**.
 
@@ -132,7 +131,8 @@ Don't forget to give the project a star! Thanks again!
 
 ## 📧 Contact
 
-SETHUPATHI K (https://www.linkedin.com/in/sethupathi-k-3340a5292?ut - sethupathikanagaraj1405@gmail.com
+SETHUPATHI K (https://www.linkedin.com/in/sethupathi-k-3340a5292?ut)
+Mail - sethupathikanagaraj1405@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
