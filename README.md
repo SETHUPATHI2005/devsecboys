@@ -76,7 +76,7 @@ You need to setup you MongoDB Clusters priorly and then follow the steps.
 1. Clone the repository
 
    ```sh
-   git clone https://github.com/siddhesh-desai/Worker-Connect.git
+   https://github.com/SETHUPATHI2005/devsecboys
    ```
 
 2. Install the dependencies:
