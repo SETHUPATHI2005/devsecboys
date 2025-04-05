@@ -1,38 +1,5 @@
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-<!-- PROJECT LOGO -->
-<br/>
-<div align="center">
-  <a href="https://github.com/siddhesh-desai/Worker-Connect">
-    <img src="images/Worker-Connect-logo.png" alt="Logo">
-  </a>
-    <br>
-    <br>
-
-  <h3 align="center"><b>Worker-Connect</b></h3>
-
-  <h2>🏆Winner of the 1st Prize at <a href="https://unscript-rookies-hackathon-k.devfolio.co/projects?prizes=3053b1db4c4d423da50280b2119fb983&show_winners=true">UnScript Rookies Hackathon 2k23</a></h2>
-
-  <p align="center">
-    Worker-Connect is a comprehensive platform designed to bridge the gap between blue-collar workers and individuals in need of their services. 
-    <br />
-    <br>
-    <a href="https://github.com/siddhesh-desai/Worker-Connect"><strong>Explore the docs »</strong></a>
-    <br />
-    <a href="https://github.com/siddhesh-desai/Worker-Connect">View Demo</a>
-    ·
-    <a href="https://github.com/siddhesh-desai/Worker-Connect/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/siddhesh-desai/Worker-Connect/issues">Request Feature</a>
-  </p>
-</div>
-
 <!-- ABOUT THE PROJECT -->
 <br>
 
@@ -165,42 +132,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## 📧 Contact
 
-Siddhesh Desai - [@thesiddheshdesai](https://www.linkedin.com/in/thesiddheshdesai/) - siddheshdesai777@gmail.com
-
-Project Link: [https://github.com/siddhesh-desai/Worker-Connect](https://github.com/siddhesh-desai/Worker-Connect)
+SETHUPATHI K (https://www.linkedin.com/in/sethupathi-k-3340a5292?ut - sethupathikanagaraj1405@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ✨ Contributors
-
-Thanks go to these wonderful people:
-
-- [Siddhesh Desai](https://github.com/siddhesh-desai/)
-- [Rajkumar Dongre](https://github.com/rajkumardongre/)
-- [Sanket Disale](https://github.com/sanketdisale871/)
-- [Samarth Bura](https://github.com/samarthNV/)
-
-[contributors-shield]: https://img.shields.io/github/contributors/siddhesh-desai/Worker-Connect.svg?style=for-the-badge
-[contributors-url]: https://github.com/siddhesh-desai/Worker-Connect/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/siddhesh-desai/Worker-Connect.svg?style=for-the-badge
-[forks-url]: https://github.com/siddhesh-desai/Worker-Connect/network/members
-[stars-shield]: https://img.shields.io/github/stars/siddhesh-desai/Worker-Connect.svg?style=for-the-badge
-[stars-url]: https://github.com/siddhesh-desai/Worker-Connect/stargazers
-[issues-shield]: https://img.shields.io/github/issues/siddhesh-desai/Worker-Connect.svg?style=for-the-badge
-[issues-url]: https://github.com/siddhesh-desai/Worker-Connect/issues
-[license-shield]: https://img.shields.io/github/license/siddhesh-desai/Worker-Connect.svg?style=for-the-badge
-[license-url]: https://github.com/siddhesh-desai/Worker-Connect/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/thesiddheshdesai
-[html]: https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=61DAFB
-[html-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[css]: https://img.shields.io/badge/Css-000000?style=for-the-badge&logo=css3&logoColor=white
-[css-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[js]: https://img.shields.io/badge/Javscript-0769AD?style=for-the-badge&logo=javascript&logoColor=white
-[js-url]: https://developer.mozilla.org/en-US/docs/Web/javascript
-[mongodb]: https://img.shields.io/badge/mongodb-20232A?style=for-the-badge&logo=mongodb&logoColor=61DAFB
-[mongodb-url]: https://www.mongodb.com/docs/
-[express]: https://img.shields.io/badge/expressjs-000000?style=for-the-badge&logo=express&logoColor=white
-[express-url]: https://expressjs.com/
-[node]: https://img.shields.io/badge/NodeJS-0769AD?style=for-the-badge&logo=node.js&logoColor=white
-[node-url]: https://nodejs.org/en/docs
